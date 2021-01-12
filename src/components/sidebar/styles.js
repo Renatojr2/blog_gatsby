@@ -10,6 +10,13 @@ export const Sidebar = styled.div`
 export const SidebarTitle = styled.h3`
   font-size: 20px;
   font-weight: bold;
+  background: #000;
+  height: 50px ;
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `
 export const SidebarDescription = styled.p`
   text-align: justify;
