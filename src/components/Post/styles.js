@@ -5,7 +5,7 @@ export const Container = styled.div`
   padding: 1.5rem;
   margin-bottom: 1rem;
   border-radius: .50rem;
-  background-color: #FFFFFF;
+  background-color: #eee;
 `
 export const P = styled.p`
   margin-bottom: 5px;

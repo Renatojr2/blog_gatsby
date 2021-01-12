@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{GNkg:function(t,n,e){"use strict";e.r(n);var a=e("q1tI"),r=e.n(a),u=e("Zttt");n.default=function(t){var n=t.data;return r.a.createElement(u.a,null,r.a.createElement("p",null,n))}}}]);
+//# sourceMappingURL=component---src-templates-post-jsx-37c9b3c64911fc2c1fbb.js.map
